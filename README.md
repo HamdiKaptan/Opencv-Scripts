@@ -1,2 +1,2 @@
 # Opencv-Scripts
-OpenCV scripts for  complete images of dataset
+OpenCV scripts for  all images of dataset
