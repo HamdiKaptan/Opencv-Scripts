@@ -18,5 +18,5 @@ for i in os.listdir():
         continue
     a+=1
 
-
+// buda rotater =>imutils.rotate_bound(frame, 90)
 cv2.destroyAllWindows()
